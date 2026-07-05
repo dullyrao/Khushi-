@@ -1,0 +1,12 @@
+==================================
+   SIMPLE VULNERABILITY MATCHER
+===================================
+Enter Software Name: Apache 
+
+========== RESULT ==========
+Software : Apache
+Status   : Vulnerability Found
+Details  : CVE-2021-41773 - High
+
+
+** Process exited - Return Code: 0 **
